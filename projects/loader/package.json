@@ -1,0 +1,13 @@
+{
+    "name": "@ui-components/loader",
+    "version": "13.0.1",
+    "peerDependencies": {
+        "@angular/common": "13.1.2",
+        "@angular/core": "13.1.2",
+        "@angular/material": "13.1.2",
+        "rxjs": "7.5.2"
+    },
+    "dependencies": {
+        "tslib": "2.3.1"
+    }
+}

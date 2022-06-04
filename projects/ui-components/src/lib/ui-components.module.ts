@@ -1,8 +1,13 @@
+import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
+import { LoaderComponent } from './loader/loader.component';
 
-import { LoaderModule } from './loader/loader.module';
+import { PopInProjectionComponent } from './pop-in-projection/pop-in-projection.component';
+import { UiMaterialModule } from './ui-material.module';
 
 @NgModule({
-  exports: [LoaderModule],
+    declarations: [LoaderComponent, PopInProjectionComponent],
+    imports: [CommonModule, UiMaterialModule],
+    exports: [LoaderComponent, PopInProjectionComponent]
 })
 export class UiComponentsModule {}

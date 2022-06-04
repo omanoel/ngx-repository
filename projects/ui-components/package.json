@@ -1,13 +1,13 @@
 {
     "name": "@ngx-repository/ui-components",
-    "version": "13.0.0",
+    "version": "14.0.0",
     "peerDependencies": {
-        "@angular/common": "13.1.2",
-        "@angular/core": "13.1.2",
-        "@angular/material": "13.1.2",
-        "rxjs": "7.5.2"
+        "@angular/common": "14.0.0",
+        "@angular/core": "14.0.0",
+        "@angular/material": "14.0.0",
+        "rxjs": "7.5.5"
     },
     "dependencies": {
-        "tslib": "2.3.1"
+        "tslib": "2.4.0"
     }
 }

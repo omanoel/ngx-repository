@@ -1,6 +1,6 @@
 # NgxRepository
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+This project contains libraries based on Angular v14.0.0.
 
 ## Development server
 
